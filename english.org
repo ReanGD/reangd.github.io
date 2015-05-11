@@ -1,7 +1,93 @@
+* Образование множественного числа
+** Большинство сущ. образуют мн. число добавлением *-s*
+one book - three book@@html:<b>@@s@@html:</b>@@
+** Сущ. оканчивающиеся на *-s*, *-ss*, *-sh*, *-ch*,  *-x* или *-o* образуют мн. число добавлением, *-es*:
+bu@@html:<b>@@s@@html:</b>@@ - bus@@html:<b>@@es@@html:</b>@@,
+dre@@html:<b>@@ss@@html:</b>@@ - dress@@html:<b>@@es@@html:</b>@@,
+bo@@html:<b>@@x@@html:</b>@@ - box@@html:<b>@@es@@html:</b>@@,
+potat@@html:<b>@@o@@html:</b>@@ - potato@@html:<b>@@es@@html:</b>@@,
+di@@html:<b>@@sh@@html:</b>@@ - dish@@html:<b>@@es@@html:</b>@@ (посуда),
+pea@@html:<b>@@ch@@html:</b>@@ - peach@@html:<b>@@es@@html:</b>@@ (персики)
+
+*Некоторые сущ. оканчивающиеся на -o являются словами исключениями и и во мн. числе оканчиваются только на -s*:
+
+radi@@html:<b>@@o@@html:</b>@@ - radio@@html:<b>@@s@@html:</b>@@,
+pian@@html:<b>@@o@@html:</b>@@ - piano@@html:<b>@@s@@html:</b>@@,
+studi@@html:<b>@@o@@html:</b>@@ - studio@@html:<b>@@s@@html:</b>@@,
+vide@@html:<b>@@o@@html:</b>@@ - video@@html:<b>@@s@@html:</b>@@,
+kil@@html:<b>@@o@@html:</b>@@ - kilo@@html:<b>@@s@@html:</b>@@,
+rhin@@html:<b>@@o@@html:</b>@@ - rhino@@html:<b>@@s@@html:</b>@@ (носорог)
+** Сущ. оканчивающиеся на гласную + *-y* образуют мн. число добавлением *-s*:
+b@@html:<b>@@oy@@html:</b>@@ - boy@@html:<b>@@s@@html:</b>@@,
+t@@html:<b>@@oy@@html:</b>@@ - toy@@html:<b>@@s@@html:</b>@@
+** Сущ. оканчивающиеся на согласную + *-y*, образуют мн. число удалением *-y* и добавлением *-ies*:
+cher@@html:<b>@@ry@@html:</b>@@ - cherr@@html:<b>@@ies@@html:</b>@@,
+la@@html:<b>@@dy@@html:</b>@@ - lad@@html:<b>@@ies@@html:</b>@@
+** Сущ. оканчивающиеся на *-f* или *-fe* образуют мн. число удалением *-f* или *-fe* и добавлением *-ves*:
+wi@@html:<b>@@fe@@html:</b>@@ - wi@@html:<b>@@ves@@html:</b>@@,
+loa@@html:<b>@@f@@html:</b>@@ - loa@@html:<b>@@ves@@html:</b>@@ (булка)
+
+*Но нормально то они жить не могут, поэтому есть ислючения*:
+
+roo@@html:<b>@@f@@html:</b>@@ - roof@@html:<b>@@s@@html:</b>@@,
+giraf@@html:<b>@@fe@@html:</b>@@ - giraffe@@html:<b>@@s@@html:</b>@@,
+cli@@html:<b>@@ff@@html:</b>@@ - cliff@@html:<b>@@s@@html:</b>@@ (утес, крутой обрыв)
+** "Неправильные" множественные формы:
+|-------+----------+-------|
+| child | children |       |
+| man   | men      |       |
+| woman | women    |       |
+| foot  | feet     | нога  |
+| tooth | teeth    | зуб   |
+| goose | geese    | гусь  |
+| mouse | mice     |       |
+| sheep | sheep    |       |
+| ox    | oxen     | бык   |
+| deer  | deer     | олень |
+
+* Исчисляемые и неисчисляемые существительные
+** Исчисляемые сущ. это ожидаемо те, которые можно посчитать - они имеют мн. и ед. форму:
+one book, two books, three books
+
+*Английские аборигены добавляют "a/an" перед исчисляемыми сущ. в ед. ч.*
+
+a - перед согласными *звуками*\\
+an - перед гласными *звуками*\\
+a hat, an umbrella, *an* hours
+** Неисчисляемые сущ. посчитать нельзя и они обычно мн. формы обычно не имеют:
+*еда*: cheese, butter(масло), meat, salt, pepper(перец), bacon(бекон), bread, chocolate, honey(мед), jam
+*жидкости*: coffe, milk, water, tea, wine, lemonade, petrol(бензин), oil
+*материалы*: gold, iron(железо), silver(серебро), wood, paper
+*абстрактные сущ.*: beauty(красота), love, happiness
+*и другие*: hair(волосы), money, news, show, furniture(мебель), weather, advice(совет)
+
 * Произношение суффикса множественного числа:
 ** / s / когда существительное оканчивается на звуки: / f /, / k /, / θ /, / p / or / t /
-roo@@html:<b>@@f@@html:</b>@@s (крыши), duc@@html:<b>@@k@@html:</b>@@s (утки), lam@@html:<b>@@p@@html:</b>@@s (лампы), skir@@html:<b>@@t@@html:</b>@@s (юбки), my@@html:<b>@@th@@html:</b>@@s (мифы)
+roo@@html:<b>@@f@@html:</b>@@s (крыши),
+duc@@html:<b>@@k@@html:</b>@@s (утки),
+lam@@html:<b>@@p@@html:</b>@@s (лампы),
+skir@@html:<b>@@t@@html:</b>@@s (юбки),
+my@@html:<b>@@th@@html:</b>@@s (мифы)
 ** / ɪz / когда существительное оканчивается на звуки: / s /, / ks /, / ʃ /, / tʃ /, / dʒ /, / z /, or / ʒ /
-gla@@html:<b>@@ss@@html:</b>@@es (очки), bo@@html:<b>@@x@@html:</b>@@es (коробки), di@@html:<b>@@sh@@html:</b>@@es (посуда), tor@@html:<b>@@ch@@html:</b>@@es (факелы), fri@@html:<b>@@dg@@html:</b>@@es (холодильники), no@@html:<b>@@s@@html:</b>@@es (носы), mira@@html:<b>@@g@@html:</b>@@es (миражи)
+gla@@html:<b>@@ss@@html:</b>@@es (очки),
+bo@@html:<b>@@x@@html:</b>@@es (коробки),
+di@@html:<b>@@sh@@html:</b>@@es (посуда),
+tor@@html:<b>@@ch@@html:</b>@@es (факелы),
+fri@@html:<b>@@dg@@html:</b>@@es (холодильники),
+no@@html:<b>@@s@@html:</b>@@es (носы),
+mira@@html:<b>@@g@@html:</b>@@es (миражи)
 ** / z / когда существительное оканчивается на любые другие звуки
-gir@@html:<b>@@l@@html:</b>@@s (девочки), do@@html:<b>@@g@@html:</b>@@s (собаки), kni@@html:<b>@@v@@html:</b>@@es (ножи), he@@html:<b>@@n@@html:</b>@@s (куры), be@@html:<b>@@d@@html:</b>@@s (кровати)
+gir@@html:<b>@@l@@html:</b>@@s (девочки),
+do@@html:<b>@@g@@html:</b>@@s (собаки),
+kni@@html:<b>@@v@@html:</b>@@es (ножи),
+he@@html:<b>@@n@@html:</b>@@s (куры),
+be@@html:<b>@@d@@html:</b>@@s (кровати)
+* Словарик
+plural - множественное число\\
+singular - единственное число\\
+noun - существительное\\
+verb - глагол\\
+vowel - гласная\\
+consonant - согласная\\
+countable - исчисляемое\\
+uncountable - неисчисляемое
