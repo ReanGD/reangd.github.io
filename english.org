@@ -1,0 +1,7 @@
+* Произношение суффикса множественного числа:
+** / s / когда существительное оканчивается на звуки: / f /, / k /, / θ /, / p / or / t /
+roo@@html:<b>@@f@@html:</b>@@s (крыши), duc@@html:<b>@@k@@html:</b>@@s (утки), lam@@html:<b>@@p@@html:</b>@@s (лампы), skir@@html:<b>@@t@@html:</b>@@s (юбки), my@@html:<b>@@th@@html:</b>@@s (мифы)
+** / ɪz / когда существительное оканчивается на звуки: / s /, / ks /, / ʃ /, / tʃ /, / dʒ /, / z /, or / ʒ /
+gla@@html:<b>@@ss@@html:</b>@@es (очки), bo@@html:<b>@@x@@html:</b>@@es (коробки), di@@html:<b>@@sh@@html:</b>@@es (посуда), tor@@html:<b>@@ch@@html:</b>@@es (факелы), fri@@html:<b>@@dg@@html:</b>@@es (холодильники), no@@html:<b>@@s@@html:</b>@@es (носы), mira@@html:<b>@@g@@html:</b>@@es (миражи)
+** / z / когда существительное оканчивается на любые другие звуки
+gir@@html:<b>@@l@@html:</b>@@s (девочки), do@@html:<b>@@g@@html:</b>@@s (собаки), kni@@html:<b>@@v@@html:</b>@@es (ножи), he@@html:<b>@@n@@html:</b>@@s (куры), be@@html:<b>@@d@@html:</b>@@s (кровати)
