@@ -110,6 +110,10 @@ kni@@html:<b>@@v@@html:</b>@@es (ножи),
 he@@html:<b>@@n@@html:</b>@@s (куры),
 be@@html:<b>@@d@@html:</b>@@s (кровати)
 
+* Разное
+** Употребление his и him
+    him - указывает на человека (We need to find him, I walk with him)
+    his - указывает на принадлежность человеку (his book, his family)
 * Словарик
 |-------------+---------------------|
 | plural      | множественное число |
