@@ -83,7 +83,7 @@ There is *some* bread on the table (но не: There is +a bread+ on the table)
 | jug    | кувшин              |
 | slice  | ломоть              |
 | tin    | консервная банка    |
-| packet | пакет, пачка        | 
+| packet | пакет, пачка        |
 н-р:\\
 Do not forget to buy me *a jar of olives*\\
 They opened *ten bottles of champagne* (вот так они извратили "шампанское")
@@ -147,3 +147,22 @@ My book is better than yours. (yours == your book). Their idea is really interes
 | gap         | пробел              |
 | waiter      | официант            |
 | waitress    | официантка          |
+
+* Ещё один словарик
+|-------+------------|
+| there | там, туда  |
+| here  | здесь, тут |
+
+* every-, some-, any-, no- "body" ([[http://www.biglang.com/english-lesson20/lesson20part2][Подробнее]])
+Всё что с суфиксом (body) относится к людям. Все подобные местоимения имеют 3 лицо, единственное число (he, she).
+** Everybody  - все
+Everybody knows where you work - Все знают, где ты работаешь
+
+** Somebody - кто-то, кто-нибудь (в утверждениях)
+Somebody told me that you were ill - Кто-то сказал мне, что ты больна
+
+** Anybody - кто-нибудь (вопросы и отрицания)
+Is anybody home? - Есть кто-нибудь дома?
+
+** Nobody - никто
+Nobody loves me - Никто меня не любит
