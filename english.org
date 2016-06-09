@@ -1,3 +1,5 @@
+[[/dictionary.html][Словарь]]
+
 * Образование множественного числа
 ** Большинство сущ. образуют мн. число добавлением *-s*
 one book - three book@@html:<b>@@s@@html:</b>@@
@@ -147,11 +149,6 @@ My book is better than yours. (yours == your book). Their idea is really interes
 | gap         | пробел              |
 | waiter      | официант            |
 | waitress    | официантка          |
-
-* Ещё один словарик
-|-------+------------|
-| there | там, туда  |
-| here  | здесь, тут |
 
 * every-, some-, any-, no- "body" ([[http://www.biglang.com/english-lesson20/lesson20part2][Подробнее]])
 Всё что с суфиксом (body) относится к людям. Все подобные местоимения имеют 3 лицо, единственное число (he, she).
