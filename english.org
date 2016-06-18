@@ -1,4 +1,8 @@
-[[../dictionary.html][Словарь]]
+#+TITLE: English
+#+OPTIONS: H:2 num:nil toc:nil html-postamble:nil
+
+- [[../dictionary.html][Словарь]]
+- [[../grammar_verbs.html][Грамматика глаголы]]
 
 * Образование множественного числа
 ** Большинство сущ. образуют мн. число добавлением *-s*
