@@ -1,0 +1,31 @@
+#+TITLE: Родсвенные пары
+#+OPTIONS: H:2 num:nil toc:nil html-postamble:nil
+
+[[../english.html][Main]]
+
+* Употребление his и him
+"him" - указывает на человека:\\
+We need to find him, I walk with him\\
+"his" - указывает на принадлежность человеку:\\
+his book, his family
+* Употребление in и at
+"in" в чем-то, внутри чего-то (когда пространство вокруг ограничено н-р стенами)\\
+"at" говорится о пребывании на каком-либо объекте или событии:\\
+at the library, at the factory, at the theatre, at the zoo, at he party
+
+Для того что бы почуствовать разницу:\\
+мы в здании ярмарки - in\\
+но мы на ярмарке - at
+* Употребление my и mine
+"My" всегда ставится перед существительным:\\
+My apple is green\\
+"Mine" используется если употребляется вместо существительного:\\
+His apple is green and mine is yellow (Тут "мое" употребляется вместо существительного поэтому используем mine)
+* Употребление your и yours
+"Your" - считается как прилагательное "твое". Ставится тогда, когда после него вы указываете существительное, о котором собственно и идет речь:\\
+Your book, your car, your phone\\
+"Yours" - существительно "твой". Используется тогда, когда уже известно, о каком конкретно предмете идет речь. После него существительное уже не требуется писать.\\
+My book is better than yours. (yours == your book). Their idea is really interesting, yours is stupid (yours == your idea)
+* Употребление this и these
+"this" - это (ед. ч.).\\
+"these" - эти (мн. ч.).
