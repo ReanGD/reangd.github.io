@@ -1,7 +1,7 @@
 #+TITLE: Грамматика глаголов
 #+OPTIONS: H:2 num:nil toc:nil html-postamble:nil
 
-[[../english.html][Main]]
+[[file:english.org][Main]]
 
 * Добавление "s" к глаголам настоящего времени
 s добавляется к глаголам настоящего времени в 3ем лице ед.ч. (He, She, It). К you (2-е лицо) соответственно не добавляется.

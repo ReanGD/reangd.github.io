@@ -1,7 +1,7 @@
 #+TITLE: Словарик
 #+OPTIONS: H:2 num:nil toc:nil html-postamble:nil
 
-[[../english.html][Main]]
+[[file:english.org][Main]]
 
 Место:
 |-------+--------------|

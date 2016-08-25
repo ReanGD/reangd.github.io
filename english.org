@@ -1,11 +1,12 @@
 #+TITLE: English
 #+OPTIONS: H:2 num:nil toc:nil html-postamble:nil
 
-- [[../grammar_verbs.html][Грамматика глаголы]]
-- [[../possessive_pronouns.html][Притяжательные местоимения]]
-- [[../articles.html][Артикли]]
-- [[../dictionary.html][Словарь]]
-- [[../dictionary_pairs.html][Словарь родсвенных по смыслу пар]]
+- [[file:grammar_verbs.org][Грамматика глаголы]]
+- [[file:personal_pronouns.org][Личные местоимения]]
+- [[file:possessive_pronouns.org][Притяжательные местоимения]]
+- [[file:articles.org][Артикли]]
+- [[file:dictionary.org][Словарь]]
+- [[file:dictionary_pairs.org][Словарь родсвенных по смыслу пар]]
 
 * Образование множественного числа
 ** Большинство сущ. образуют мн. число добавлением *-s*

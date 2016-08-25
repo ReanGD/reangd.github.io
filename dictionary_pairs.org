@@ -1,7 +1,7 @@
 #+TITLE: Родсвенные пары
 #+OPTIONS: H:2 num:nil toc:nil html-postamble:nil
 
-[[../english.html][Main]]
+[[file:english.org][Main]]
 
 * Употребление in и at
 "in" в чем-то, внутри чего-то (когда пространство вокруг ограничено н-р стенами)\\

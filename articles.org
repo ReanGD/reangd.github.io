@@ -1,7 +1,7 @@
 #+TITLE: Артикли
 #+OPTIONS: H:2 num:nil toc:nil html-postamble:nil
 
-[[../english.html][Main]]
+[[file:english.org][Main]]
 
 * Исчисляемые сущ. это ожидаемо те, которые можно посчитать - они имеют мн. и ед. форму:
 one book, two books, three books\\
